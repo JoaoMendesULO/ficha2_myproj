@@ -1,1 +1,3 @@
 Este e o exemplo de um ficheiro de texto file3
+Este comit tem objetivo de atualizar o file3.txt"
+Este exercicio esta englobado no ambito da ficha 1 de git

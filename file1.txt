@@ -1,1 +1,5 @@
-Este e o exemplo de um ficheiro de texto file1
+Eliminei a primeira linha e escrevi esta!!
+
+
+
+Fiz uma alteraçao dentro do ficheiro
